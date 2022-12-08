@@ -1,0 +1,16 @@
+{
+	"env": {
+		"es6": true
+	},
+	"rules": {
+		"no-class-assign": "error",
+		"no-const-assign": "warn",
+		"no-duplicate-imports": "warn",
+		"no-self-assign": "error",
+		"no-template-curly-in-string": "error",
+		"no-unreachable": "error",
+		"no-unused-vars": "error",
+		"camelcase": "warn",
+		"no-var": "error"
+	}
+}
